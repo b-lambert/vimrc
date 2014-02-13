@@ -10,5 +10,5 @@ nore ; :
 "Display name of file being edited 
 set ls=2
 "replace tab with spaces
-set shiftwidth=8
+set shiftwidth=4
 set expandtab
