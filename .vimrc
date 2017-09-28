@@ -8,3 +8,4 @@ set noerrorbells
 "replace tab with spaces
 set shiftwidth=4
 set expandtab
+syntax on
