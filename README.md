@@ -1,3 +1,3 @@
 # vimrc
 
-Goes in <code>~/</code>
+Lives here: <code>~/.vimrc</code>
